@@ -8,7 +8,7 @@
 
 [![Amit's github activity graph](https://activity-graph.herokuapp.com/graph?username=AmitSahastra&theme=react-dark)](https://github.com/AmitSahastra/github-readme-activity-graph)
 
-
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=AmitSahastra"></img>
 
 [![Amit's GitHub stats](https://github-readme-stats.vercel.app/api?username=AmitSahastra&count_private=true&show_icons=true&theme=radical)](https://github.com/AmitSahastra/github-readme-stats)
 <!--
