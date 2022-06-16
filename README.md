@@ -1,5 +1,11 @@
 ### Hi there, I'm Amit Sahastrabuddhe 👋
 
+![Profile views](https://gpvc.arturio.dev/AmitSahastra)
+
+<p align="left">
+<img src="https://visitor-badge.laobi.icu/badge?page_id=AmitSahastra.AmitSahastra" alt="visitors"/>
+</p>
+
 [![Amit's github activity graph](https://activity-graph.herokuapp.com/graph?username=AmitSahastra&theme=react-dark)](https://github.com/AmitSahastra/github-readme-activity-graph)
 
 
