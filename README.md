@@ -1,4 +1,9 @@
 ### Hi there, I'm Amit Sahastrabuddhe 👋
+
+[![Amit's github activity graph](https://activity-graph.herokuapp.com/graph?username=AmitSahastra&theme=react-dark)](https://github.com/AmitSahastra/github-readme-activity-graph)
+
+
+
 [![Amit's GitHub stats](https://github-readme-stats.vercel.app/api?username=AmitSahastra&count_private=true&show_icons=true&theme=radical)](https://github.com/AmitSahastra/github-readme-stats)
 <!--
 **AmitSahastra/AmitSahastra** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
