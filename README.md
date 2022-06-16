@@ -25,3 +25,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+**📫 How to Reach me:**
+<p align="left">
+<a href="https://www.linkedin.com/in/amit-sahastrabuddhe/" target="blank"><img align="center" src="https://raw.githubusercontent.com/AmitSahastra/AmitSahastra/master/assets/linkedin.svg" alt="AmitSahastra" height="30" width="30" /></a>
+<a href="mailto:amit.sahastra@gmail.com" target="blank"><img align="center" src="https://raw.githubusercontent.com/AmitSahastra/AmitSahastra/master/assets/gmail.svg" alt="Gmail" height="30" width="30" /></a>
+</p>
