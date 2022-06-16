@@ -6,6 +6,9 @@
 <img src="https://visitor-badge.laobi.icu/badge?page_id=AmitSahastra.AmitSahastra" alt="visitors"/>
 </p>
 
+- 🔭 I’m currently working at [Calsoft Inc](https://www.calsoftinc.com/) as a Principle Development Engineer
+- 👯 Contributes to [Cluster API](https://github.com/kubernetes-sigs/cluster-api), [CAPA provider](https://github.com/kubernetes-sigs/cluster-api-provider-aws) and [MAAS](spectrocloud/cluster-api-provider-maas)
+
 [![Amit's github activity graph](https://activity-graph.herokuapp.com/graph?username=AmitSahastra&theme=react-dark)](https://github.com/AmitSahastra/github-readme-activity-graph)
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=AmitSahastra"></img>
