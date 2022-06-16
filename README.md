@@ -1,5 +1,5 @@
-### Hi there 👋
-
+### Hi there, I'm Amit Sahastrabuddhe 👋
+[![Amit's GitHub stats](https://github-readme-stats.vercel.app/api?username=AmitSahastra&count_private=true&show_icons=true&theme=radical)](https://github.com/AmitSahastra/github-readme-stats)
 <!--
 **AmitSahastra/AmitSahastra** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
