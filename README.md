@@ -44,7 +44,7 @@
 
 | Project | Highlights |
 |--------|------------|
-| **MAAS Provider** | Bumped to CAPI `v1.9.4` with full codebase refactor and fixed controller build issues ([#164](https://github.com/spectrocloud/cluster-api-provider-maas/pull/164), [#167](https://github.com/spectrocloud/cluster-api-provider-maas/pull/167)) |
+| **MAAS Provider** | Maintainer of maas repo. Bumped to CAPI `v1.9.4` with full codebase refactor and fixed controller build issues ([#164](https://github.com/spectrocloud/cluster-api-provider-maas/pull/164), [#167](https://github.com/spectrocloud/cluster-api-provider-maas/pull/167)) |
 | **CAPA** | patched ReplaceRoute IAM ([#3492](https://github.com/kubernetes-sigs/cluster-api-provider-aws/pull/3492)), VPC deletion ([#3749](https://github.com/kubernetes-sigs/cluster-api-provider-aws/pull/3749)), hardcoded IAM ARN ([#3926](https://github.com/kubernetes-sigs/cluster-api-provider-aws/pull/3926)), and GovCloud S3 support |
 | **CAPV** | Debugged `IPClaim`/`IPAddress` lifecycle issues in Metal3 IPAM, integrated into v1.12 |
 | **Cluster API Core** | Proposed and designed cluster takeover support for `kubeadm`-bootstrapped clusters ([Issue #10820](https://github.com/kubernetes-sigs/cluster-api/issues/10820)) |
